@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/goisonberry/burger/issues"
   },
-  "homepage": "https://github.com/goisonberry/burger#readme"
+  "homepage": "https://github.com/goisonberry/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
